@@ -7,6 +7,17 @@ Currently we have:
 -----Managment System with GUI----
 -----Download Images from a WebPage----
 
+-----Auto Post to Facebook Page-----
+
+This is the python script which use Facebook SDK and API to post to Facebook Page. The content is in the form of images and can be placed in the source folder.
+
+#Replace token
+
+#Replace the source folder
+
+#It simply take an image from the directory and post image one by one after the pause.
+
+You can change the add the pause as you want by changing time.sleep(int) function. Simply replace the value.
 
 
 [![Run on Repl.it](https://repl.it/badge/github/muhamdasim/Pythom-Programming)](https://repl.it/github/muhamdasim/Pythom-Programming)
