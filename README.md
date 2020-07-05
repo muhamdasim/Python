@@ -4,8 +4,8 @@ Hi Everyone. This repository will contain simple python programs to complex pyth
 Currently we have:
 
 ===========================Python Calculator===========================
-===========================Managment System with GUI===========================
-===========================Download Images from a WebPage===========================
+===========================Managment System with GUI===================
+==========================Download Images from a WebPage===============
 
 ===========================Auto Post to Facebook Page===========================
 
